@@ -4,7 +4,7 @@ export default class Menu extends React.Component {
     constructor() {
         super();
         this.state = {
-            data: ['','','','','','','','','']
+            data: ['Aku','Anak','Sehat','Tubuhku','Cacat','Bentar','Bentar','Ehhh','Wkwkwkwkwkwk']
         };
     }
 
