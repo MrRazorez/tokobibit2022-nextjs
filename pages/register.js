@@ -9,7 +9,7 @@ export default function Register() {
             
                 <section className="w-1/4 m-auto">
                     <h2 className="text-center text-white font-['Merienda'] text-3xl font-bold mb-10">bibit HerliAnto</h2>
-                    <form action="api/register" method="post" enctype="application/json">
+                    <form action="api/register" method="post" encType="application/json">
                         <div className= "relative text-white">
                             <input className="bg-transparent border-b-2 border-white text-white  mb-6 w-full outline-none" type="email" name="email" id="" placeholder="Email"/>
                             
