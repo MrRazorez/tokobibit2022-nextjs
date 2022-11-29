@@ -9,7 +9,7 @@ export default function Login() {
             
                 <section className="w-1/4 m-auto">
                     <h2 className="text-center text-white font-['Merienda'] text-3xl font-bold mb-10">bibit HerliAnto</h2>
-                    <form action="api/login" method="post" enctype="application/json">
+                    <form action="api/login" method="post" encType="application/json">
                         <div className= "relative text-white">
                         { /* / Username / Nomor Handphone    */}
                         <input className="bg-transparent border-b-2 border-white text-white  mb-6 w-full outline-none" type="text" name="email" id="" placeholder="Email"/>
